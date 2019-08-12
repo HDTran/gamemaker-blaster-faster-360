@@ -19,3 +19,8 @@ if (_thrust) {
 } else {
 	friction = friction_amount; // friction slows down the object my small amount
 }
+
+var _fire_laser = mouse_check_button_pressed(mb_left); // only the one frame where you pressed it
+if (_fire_laser) {
+	fire_lasers();	
+}

@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "0b6775ec-9b07-441e-b1bf-96d04f5472d3",
+            "Value": {
+                "id": "c6ca647c-1bd1-4632-a3b7-1aeadfcffb53",
+                "resourcePath": "scripts\/create_left_laser\/create_left_laser.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "130bd915-8130-48c6-8f2f-33ae2f47b22d",
             "Value": {
                 "id": "7f13f297-f671-4568-b240-b5fe14c646e2",
@@ -68,6 +76,14 @@
                 "id": "58d5ff80-7945-4aa6-87a5-e4612888b18e",
                 "resourcePath": "sprites\/s_button\/s_button.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2e6583a7-6201-49fd-ba60-138ba3380799",
+            "Value": {
+                "id": "0e61d394-8d3d-43cf-a1fd-e7e9c8b9f8c8",
+                "resourcePath": "scripts\/create_right_laser\/create_right_laser.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -199,6 +215,14 @@
             }
         },
         {
+            "Key": "7b0de51d-c676-4be1-8bbe-769188940a38",
+            "Value": {
+                "id": "4baf6d04-cf86-4a4f-b143-07af6227e20e",
+                "resourcePath": "objects\/o_laser\/o_laser.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "875944e1-0529-4f2d-88fe-bff342cce438",
             "Value": {
                 "id": "1ca3ddd6-182d-4969-9250-2dd611157ae6",
@@ -260,6 +284,14 @@
                 "id": "f8fc0826-d505-4eda-aa32-ef1ea78af31d",
                 "resourcePath": "sounds\/a_laser\/a_laser.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "ae8ed114-9ee0-4d42-8c7e-5d6a88dcc359",
+            "Value": {
+                "id": "cc982fd1-feb1-46e3-b63e-9d47e96d67e7",
+                "resourcePath": "scripts\/create_laser_effect\/create_laser_effect.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -367,6 +399,14 @@
             }
         },
         {
+            "Key": "f3e96996-07c8-4213-b1f4-132bc96cf84a",
+            "Value": {
+                "id": "9c07b03c-6e99-4fa6-af21-5a99a0fb8b0b",
+                "resourcePath": "scripts\/fire_lasers\/fire_lasers.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "5f5ef517-acb5-41c7-bc62-98c3197416cd",
@@ -376,7 +416,11 @@
         }
     ],
     "script_order": [
-        "95caa5a9-2213-4a66-8d60-8dc165587e96"
+        "95caa5a9-2213-4a66-8d60-8dc165587e96",
+        "2e6583a7-6201-49fd-ba60-138ba3380799",
+        "0b6775ec-9b07-441e-b1bf-96d04f5472d3",
+        "f3e96996-07c8-4213-b1f4-132bc96cf84a",
+        "ae8ed114-9ee0-4d42-8c7e-5d6a88dcc359"
     ],
     "tutorial": ""
 }
