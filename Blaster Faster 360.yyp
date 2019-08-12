@@ -191,6 +191,14 @@
             }
         },
         {
+            "Key": "794d614e-0bac-43dc-b92b-193057aa67b4",
+            "Value": {
+                "id": "c17c44f5-9237-4932-8197-750f9fa1ded2",
+                "resourcePath": "objects\/o_explosion_particle\/o_explosion_particle.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "875944e1-0529-4f2d-88fe-bff342cce438",
             "Value": {
                 "id": "1ca3ddd6-182d-4969-9250-2dd611157ae6",
