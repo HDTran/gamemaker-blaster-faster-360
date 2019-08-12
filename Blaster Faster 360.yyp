@@ -279,6 +279,14 @@
             }
         },
         {
+            "Key": "a6ce3f38-7e7f-42cc-80e3-75e4e4269a79",
+            "Value": {
+                "id": "fe81a73e-fb41-49ea-8055-ddb41e0bb8f5",
+                "resourcePath": "scripts\/bounce_off_object\/bounce_off_object.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "f4a58611-a80b-4c64-b057-7b39cc187d0f",
@@ -436,7 +444,8 @@
         "2e6583a7-6201-49fd-ba60-138ba3380799",
         "0b6775ec-9b07-441e-b1bf-96d04f5472d3",
         "f3e96996-07c8-4213-b1f4-132bc96cf84a",
-        "ae8ed114-9ee0-4d42-8c7e-5d6a88dcc359"
+        "ae8ed114-9ee0-4d42-8c7e-5d6a88dcc359",
+        "a6ce3f38-7e7f-42cc-80e3-75e4e4269a79"
     ],
     "tutorial": ""
 }
