@@ -199,6 +199,14 @@
             }
         },
         {
+            "Key": "879e68bd-1171-46df-a61f-6b99e2a1faf2",
+            "Value": {
+                "id": "f22bc654-7376-4cd5-bf70-71ea5254e758",
+                "resourcePath": "objects\/o_player_ship\/o_player_ship.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "89ea9b3c-b2a8-4c26-901d-3c61e1fd6c33",
             "Value": {
                 "id": "40a0527e-fa7a-4cc2-ba01-b9450c44cdc6",
