@@ -69,6 +69,34 @@
             "value": "1",
             "varName": "armor",
             "varType": 1
+        },
+        {
+            "id": "a4fc6078-9c21-46df-a9c3-2b4c5eb6bab2",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "1",
+            "varName": "max_speed",
+            "varType": 0
+        },
+        {
+            "id": "3673d888-c86f-449b-b4aa-760674de2745",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0.1",
+            "varName": "acceleration",
+            "varType": 0
         }
     ],
     "solid": false,
