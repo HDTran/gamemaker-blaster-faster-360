@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "39ebef7b-304c-4916-91e8-24d39fd11b92",
+            "Value": {
+                "id": "873cbc87-da87-4e76-bd36-46085c01c3f2",
+                "resourcePath": "objects\/o_enemy_laser\/o_enemy_laser.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3bd5e291-7aca-4715-a844-08ce76e61279",
             "Value": {
                 "id": "8980ec6f-e189-4404-8b54-2942b7e2ff52",
@@ -252,6 +260,14 @@
                 "id": "4baf6d04-cf86-4a4f-b143-07af6227e20e",
                 "resourcePath": "objects\/o_laser\/o_laser.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "843f00a2-094a-4746-a3a1-1e93db017197",
+            "Value": {
+                "id": "159a47df-f520-4ace-a732-bb4f673f6513",
+                "resourcePath": "scripts\/move_towards_player\/move_towards_player.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -469,7 +485,8 @@
         "0b6775ec-9b07-441e-b1bf-96d04f5472d3",
         "f3e96996-07c8-4213-b1f4-132bc96cf84a",
         "ae8ed114-9ee0-4d42-8c7e-5d6a88dcc359",
-        "a6ce3f38-7e7f-42cc-80e3-75e4e4269a79"
+        "a6ce3f38-7e7f-42cc-80e3-75e4e4269a79",
+        "843f00a2-094a-4746-a3a1-1e93db017197"
     ],
     "tutorial": ""
 }

@@ -11,7 +11,7 @@ if (_thrust) {
 		speed = max_speed;
 	}
 
-	repeat (4) {
+	repeat (2) {
 		var _offset = random_range(-4, 4);
 		var _length = -14;
 		var _x = x + lengthdir_x(_length, image_angle) + _offset;

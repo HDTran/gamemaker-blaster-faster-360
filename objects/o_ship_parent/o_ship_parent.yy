@@ -23,6 +23,16 @@
             "enumb": 0,
             "eventtype": 1,
             "m_owner": "3bd5e291-7aca-4715-a844-08ce76e61279"
+        },
+        {
+            "id": "607aec34-4218-4d2b-b2c1-0d4965a48b60",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "3bd5e291-7aca-4715-a844-08ce76e61279",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "3bd5e291-7aca-4715-a844-08ce76e61279"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -42,20 +52,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": [
-        {
-            "id": "f450c19f-9e13-4e03-b286-fc6b958c1d1b",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "1",
-            "varName": "max_armor",
-            "varType": 1
-        },
         {
             "id": "a221f86a-94e1-434d-822c-ed0035dd0e83",
             "modelName": "GMObjectProperty",
