@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "3ee2ca32-2777-4bb8-9ba3-661805ed139a",
+            "Value": {
+                "id": "3564ef70-d076-4174-84db-7561be423d22",
+                "resourcePath": "scripts\/spawn_enemies\/spawn_enemies.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "45226037-4ffa-44e9-9a14-c3e2139d8031",
             "Value": {
                 "id": "53505c0d-14aa-42e6-a7aa-f2296bee977e",
@@ -463,6 +471,14 @@
             }
         },
         {
+            "Key": "d71b4936-8da4-494c-b146-20ad3270b415",
+            "Value": {
+                "id": "084bed92-dcc6-4296-8e9b-17b1d8f6d8c9",
+                "resourcePath": "objects\/o_enemy_spawner\/o_enemy_spawner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "edeadf80-82e2-4407-80cf-e1eea27c0d10",
             "Value": {
                 "id": "50eb45ae-d6e8-4e9e-a627-0815e6c5d20b",
@@ -511,7 +527,8 @@
         "ae8ed114-9ee0-4d42-8c7e-5d6a88dcc359",
         "a6ce3f38-7e7f-42cc-80e3-75e4e4269a79",
         "843f00a2-094a-4746-a3a1-1e93db017197",
-        "f4a8e09a-e4cf-47fb-9da7-25a229ff2ffe"
+        "f4a8e09a-e4cf-47fb-9da7-25a229ff2ffe",
+        "3ee2ca32-2777-4bb8-9ba3-661805ed139a"
     ],
     "tutorial": ""
 }
