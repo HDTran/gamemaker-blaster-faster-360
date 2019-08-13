@@ -391,6 +391,14 @@
             }
         },
         {
+            "Key": "aeebb9c4-1ac0-4c66-b7b3-157c9cc26651",
+            "Value": {
+                "id": "c01d5ca8-9526-46ad-bd5b-95a43f8183fb",
+                "resourcePath": "objects\/o_timer\/o_timer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b141ca00-a427-4a22-a5d5-be6da52f9a52",
             "Value": {
                 "id": "93f30612-2c6f-451f-be4e-ef839258560b",
