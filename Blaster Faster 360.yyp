@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "020c7b1d-2897-4794-8277-4731a900653a",
+            "Value": {
+                "id": "addb9d59-398c-4ab0-a53a-4eee81c691c5",
+                "resourcePath": "scripts\/quit_button\/quit_button.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "044a99b4-ecdf-4bd7-b9dd-1c65efa9206f",
             "Value": {
                 "id": "836a8ae2-56d9-4250-bf4b-cf409f1705c3",
@@ -156,6 +164,14 @@
                 "id": "11994edd-b70e-4e09-8071-8657e14c11ab",
                 "resourcePath": "sprites\/s_armor\/s_armor.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4eab78a7-911a-4e36-99d0-b606ab51ce17",
+            "Value": {
+                "id": "c566a3e1-6e8a-424f-9e21-66ee9be304b4",
+                "resourcePath": "rooms\/r_menu\/r_menu.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -479,6 +495,22 @@
             }
         },
         {
+            "Key": "dd826c08-a5da-4ce3-b8ef-c72ecf722357",
+            "Value": {
+                "id": "edadf82a-bcf2-4fdf-819d-e618f7f09557",
+                "resourcePath": "objects\/o_start_button\/o_start_button.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e73ed227-b407-4747-86f9-132971785f8f",
+            "Value": {
+                "id": "c21dbdae-85d4-4975-8192-fe2b294175e8",
+                "resourcePath": "scripts\/start_button\/start_button.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "edeadf80-82e2-4407-80cf-e1eea27c0d10",
             "Value": {
                 "id": "50eb45ae-d6e8-4e9e-a627-0815e6c5d20b",
@@ -492,14 +524,6 @@
                 "id": "38b39f1f-a2fc-4071-97cc-b4fdec235819",
                 "resourcePath": "views\/f126b745-7e39-4a38-8804-a7c58a36400c.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "f3e96996-07c8-4213-b1f4-132bc96cf84a",
-            "Value": {
-                "id": "9c07b03c-6e99-4fa6-af21-5a99a0fb8b0b",
-                "resourcePath": "scripts\/fire_lasers\/fire_lasers.yy",
-                "resourceType": "GMScript"
             }
         },
         {
@@ -523,12 +547,13 @@
         "95caa5a9-2213-4a66-8d60-8dc165587e96",
         "2e6583a7-6201-49fd-ba60-138ba3380799",
         "0b6775ec-9b07-441e-b1bf-96d04f5472d3",
-        "f3e96996-07c8-4213-b1f4-132bc96cf84a",
         "ae8ed114-9ee0-4d42-8c7e-5d6a88dcc359",
         "a6ce3f38-7e7f-42cc-80e3-75e4e4269a79",
         "843f00a2-094a-4746-a3a1-1e93db017197",
         "f4a8e09a-e4cf-47fb-9da7-25a229ff2ffe",
-        "3ee2ca32-2777-4bb8-9ba3-661805ed139a"
+        "3ee2ca32-2777-4bb8-9ba3-661805ed139a",
+        "e73ed227-b407-4747-86f9-132971785f8f",
+        "020c7b1d-2897-4794-8277-4731a900653a"
     ],
     "tutorial": ""
 }

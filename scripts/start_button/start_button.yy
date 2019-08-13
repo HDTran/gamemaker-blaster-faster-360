@@ -1,8 +1,8 @@
 {
-    "id": "f3e96996-07c8-4213-b1f4-132bc96cf84a",
+    "id": "e73ed227-b407-4747-86f9-132971785f8f",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "fire_lasers",
+    "name": "start_button",
     "IsCompatibility": false,
     "IsDnD": false
 }

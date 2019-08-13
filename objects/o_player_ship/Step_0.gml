@@ -24,5 +24,6 @@ if (_thrust) {
 
 var _fire_laser = mouse_check_button_pressed(mb_left); // only the one frame where you pressed it
 if (_fire_laser) {
-	fire_lasers();	
+	create_left_laser();
+	create_right_laser();
 }
